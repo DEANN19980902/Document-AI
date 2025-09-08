@@ -27,8 +27,8 @@ A powerful AI-powered document Q&A system that lets you upload documents and ask
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/personal-knowledge-base.git
-   cd personal-knowledge-base
+   git clone https://github.com/yourusername/docu-ai.git
+   cd docu-ai
    ```
 
 2. **Install dependencies**
@@ -209,7 +209,7 @@ If you encounter any issues or have questions:
 
 1. Check the [API documentation](http://localhost:8000/docs)
 2. Review the [health check](http://localhost:8000/health)
-3. Open an [issue](https://github.com/yourusername/personal-knowledge-base/issues)
+3. Open an [issue](https://github.com/yourusername/docu-ai/issues)
 
 ---
 
